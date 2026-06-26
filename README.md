@@ -1,4 +1,4 @@
-# Hello, I'm Ahmed, this is my landing page.
+# Hello, I'm Ahmed.
 <a href="https://www.linkedin.com/in/ahmed-dauda-001560417?trk=contact-info"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
