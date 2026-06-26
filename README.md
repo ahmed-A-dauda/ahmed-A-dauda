@@ -4,7 +4,7 @@
 A CyberSecurity enthusiast with strong interest in Cloud Security, Security Operation Center (SOC) and Threat Detection.
 
 ## Objective
-My journey in CyberSecurity has led me to develop a passion for Defensive Security, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in CyberSecurity has led me to develop a passion for Defensive Security. I've already put this into practice through hands-on investigation work, and I'm now looking to bring that foundation into a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
