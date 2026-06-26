@@ -1,10 +1,7 @@
 # Hello, I'm Ahmed.
 <a href="https://www.linkedin.com/in/ahmed-dauda-001560417?trk=contact-info"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
-
+I am a Cybersecurity enthusiast with a strong interest in Cloud Security, Security Operation Center(SOC) analysis and Threat Detection.
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
