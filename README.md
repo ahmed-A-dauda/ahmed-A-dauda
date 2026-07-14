@@ -12,11 +12,7 @@ My journey in CyberSecurity has led me to develop a passion for Defensive Securi
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Phising Analysis and Network Forensics         | <a href="https://google.com">AgentTesla Investigation</a>|
-|AWS Security Monitoring | <a href="https://google.com">s3 bucket monitoring project</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+|AWS Security Monitoring | <a href="https://github.com/ahmed-A-dauda/Cloud-Security-Monitoring-AWS-">Cloud Security Monitoring & Detection Pipeline</a>|
 | Email analysis | Agenttesla lab|
 
 ## Tools
@@ -42,14 +38,7 @@ My journey in CyberSecurity has led me to develop a passion for Defensive Securi
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+
 </div>
 
 ## Projects
