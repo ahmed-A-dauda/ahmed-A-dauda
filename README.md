@@ -11,7 +11,7 @@ My journey in CyberSecurity has led me to develop a passion for Defensive Securi
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Phising Analysis and Network Forensics         | <a href="https://google.com">AgentTesla Investigation</a>|
+| Phising Analysis and Network Forensics         | <a href="https://github.com/ahmed-A-dauda/agenttesla-phishing-analysis-and-network-forensics/blob/main/README.md">AgentTesla Phishing & Network Investigation</a>|
 |AWS Security Monitoring | <a href="https://github.com/ahmed-A-dauda/Cloud-Security-Monitoring-AWS-">Cloud Security Monitoring & Detection Pipeline</a>|
 | Email analysis | Agenttesla lab|
 
