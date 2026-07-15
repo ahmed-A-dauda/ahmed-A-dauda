@@ -13,7 +13,7 @@ My journey in CyberSecurity has led me to develop a passion for Defensive Securi
 |-----------------------------------------------|----------------------------|
 | Phising Analysis and Network Forensics         | <a href="https://github.com/ahmed-A-dauda/agenttesla-phishing-analysis-and-network-forensics/blob/main/README.md">AgentTesla Phishing & Network Investigation</a>|
 |AWS Security Monitoring | <a href="https://github.com/ahmed-A-dauda/Cloud-Security-Monitoring-AWS-">Cloud Security Monitoring & Detection Pipeline</a>|
-| Email analysis | Agenttesla lab|
+| SIEM Deployment and File Integrity Monitoring | <a href="https://github.com/ahmed-A-dauda/Wazuh-SIEM-deployment-and-File-Integrity-Monitoring/blob/main/README.md">Wazuh SIEM & File Integrity Monitoring</a> |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
