@@ -7,7 +7,6 @@ CyberSecurity-focused with strong interest in Security Operations (SOC), Cloud S
 My journey in CyberSecurity has led me to develop a passion for Defensive Security. I've already put this into practice through hands-on investigation work, and I'm now looking to bring that foundation into a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -15,8 +14,15 @@ My journey in CyberSecurity has led me to develop a passion for Defensive Securi
 |AWS Security Monitoring | <a href="https://github.com/ahmed-A-dauda/Cloud-Security-Monitoring-AWS-">Cloud Security Monitoring & Detection Pipeline</a>|
 | SIEM Deployment and File Integrity Monitoring | <a href="https://github.com/ahmed-A-dauda/Wazuh-SIEM-deployment-and-File-Integrity-Monitoring/blob/main/README.md">Wazuh SIEM & File Integrity Monitoring</a> |
 
+
+## Projects
+- <a href="https://github.com/ahmed-A-dauda/agenttesla-phishing-analysis-and-network-forensics/blob/main/README.md">AgentTesla Phishing & Network Investigation</a>
+- <a href="https://github.com/ahmed-A-dauda/Cloud-Security-Monitoring-AWS-">Cloud Security Monitoring & Detection Pipeline</a>
+- <a href="https://github.com/ahmed-A-dauda/Wazuh-SIEM-deployment-and-File-Integrity-Monitoring/blob/main/README.md">Wazuh SIEM & File Integrity Monitoring</a>
+
+
+  
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -41,9 +47,6 @@ My journey in CyberSecurity has led me to develop a passion for Defensive Securi
 
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
 <!--
 **palem-A-ahmed/palem-A-ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
